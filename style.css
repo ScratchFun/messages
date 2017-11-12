@@ -1,0 +1,23 @@
+body {
+  background-color: #cccccc;
+  margin: 0;
+}
+body * {
+  font-family: Helvetica, sans-serif;
+}
+header {
+  background-color: #0074D9;
+  padding: 10px;
+  color: white;
+  font-size: 18px;
+}
+header a {
+  color: white;
+  text-decoration: none;
+}
+header i {
+  font-size: 22px;
+}
+right {
+  float: right;
+}
